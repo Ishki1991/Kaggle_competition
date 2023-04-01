@@ -25,5 +25,3 @@ El script importa la librería RandomForestRegressor. El script guarda el modelo
 Importa los datos usando pandas. Importa sample_submission.csv, test.csv, y train.csv para luego crea una copia del conjunto de datos. Realizamos un análisis exploratorio de los datos para verificar los tipos de datos, el número de valores nulos y el número duplicados.
 
 Por último, con el método RandomForestRegressor compruebo las predicciones.
-
-Nota: este README asume que el conjunto de datos se encuentra en una carpeta llamada "data" en el mismo directorio que el script de Python.
